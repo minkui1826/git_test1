@@ -1,6 +1,7 @@
 # Calculator
 
 def main():
+    print("Hello! I am a calculator")
     print("Welcome to the calculator!")
     print("Please enter the first number:")
     num1 = float(input())
